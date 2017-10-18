@@ -1,0 +1,11 @@
+Click New Repository on Github once I created an account in Github
+Called new repository GitHubAssignment
+Opened terminal
+mkdir GitHubAssignment
+cd GitHubAssignment 
+touch readme.md
+vi readme.md
+git status
+git add readme.md
+git commit -m "__"
+touch GitHubAssignment.txt
